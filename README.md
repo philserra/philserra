@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **Les humains ont envoyé un homme sur la Lune avant même d'avoir mis des roulettes sur les valises...| incroyable non ?!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connectons-nous:</h3>
 <p align="left">
 <a href="https://philserra.fr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="philserra.fr" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/philippe-serra-martins/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="PhilippeSerraMartins" height="30" width="40" /></a>
