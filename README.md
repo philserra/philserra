@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋,  je suis Philippe</h1>
+<h1 align="center">Bonjour 👋 je suis Philippe</h1>
 
 <h3 align="center">Un jeune développeur passionné et qui a soif d'apprendre </h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=philserra alt=philserra/> </p>
