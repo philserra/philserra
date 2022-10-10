@@ -1,15 +1,14 @@
 <h1 align="center">Bonjour 👋, je suis Philippe</h1>
 
 <h3 align="center">Un jeune développeur passionné et qui a soif d'apprendre </h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=philserra alt=philserra/> </p>
 
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
 
-- 💬 J'acceuille vos projets **react, vue and gsap**
+- 💬 J'accueille vos projets **react, vue et Laravel**
 
-- 📫 Contactez moi **psm13@hotmail.fr**
+- 📫 Contactez-moi **psm13@hotmail.fr**
 
-- 👨‍💻 Tout mes projets sont disponibles sur [philserra](https://github.com/philserra?tab=repositories)
+- 👨‍💻 Tous mes projets sont disponibles sur [philserra](https://github.com/philserra?tab=repositories)
 
 - ⚡ Fun fact **Les humains ont envoyé un homme sur la Lune avant même d'avoir mis des roulettes sur les valises...| incroyable non ?!**
 
@@ -32,7 +31,5 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
-
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=philserra&show_icons=true alt=philserra /> </p>
 
 <a href="https://app.daily.dev/PhilSerra"><img src="https://api.daily.dev/devcards/02a1045696dc44988e44c20daf00f3a8.png?r=pcg" width="400" alt="Philippe Serra Martins's Dev Card"/></a>
